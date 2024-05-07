@@ -113,13 +113,20 @@ document.addEventListener("keydown", function(event) {
 
 //外接歌单置入
 var JaySongsheet = [
-      {
+    {
         "title":"你为何还未睡",
         "author":"邓思朗",
         "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3",
         "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg",
         "lrc":"../all_lrc/niweihe.lrc"
     },
+    {
+      "title":"碧玉",
+      "author":"王菀之",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png",
+      "lrc":"../all_lrc/biyu.lrc"
+   },
     {
         "title":"Mojito",
         "author":"周杰伦",
