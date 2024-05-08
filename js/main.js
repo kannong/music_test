@@ -57,7 +57,7 @@ var heo = {
 }
 
 // 调用
-heo.getCustomPlayList();
+// heo.getCustomPlayList();
 
 
 // 改进vh
