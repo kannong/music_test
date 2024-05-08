@@ -109,8 +109,6 @@ document.addEventListener("keydown", function(event) {
   }
 });
 
-// 清空之前的歌单
-document.querySelector("meting-js").aplayer.list.clear();
 
 //外接歌单置入
 var JaySongsheet = [
