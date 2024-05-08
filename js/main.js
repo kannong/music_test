@@ -57,7 +57,7 @@ var heo = {
 }
 
 // 调用
-// heo.getCustomPlayList();
+heo.getCustomPlayList();
 
 
 // 改进vh
@@ -109,7 +109,8 @@ document.addEventListener("keydown", function(event) {
   }
 });
 
-
+// 清空之前的歌单
+document.querySelector("meting-js").aplayer.list.clear();
 
 //外接歌单置入
 var JaySongsheet = [
