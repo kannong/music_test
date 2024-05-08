@@ -124,7 +124,7 @@ var JaySongsheet = [
       "author":"王菀之",
       "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3",
       "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png",
-      "lrc":"https://www.jianguoyun.com/p/DYBdztgQh7fMDBjc68EFIAA"
+      "lrc":"https://1drv.ms/u/c/3f98fa84db49164a/EbFIU0C9dplDg6ELk164tY4B2lmQ8gMuNTD0tySLBNONyg?e=CeEfEn"
    }
 ];
 var t_load = setInterval(() => {
